@@ -1,0 +1,1 @@
+# rmz-email-assets
